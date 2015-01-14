@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4ca164c1496bc4e1fa3adde4c7bb47bf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - guiSkin0: {instanceID: 0}
+  - backTexture: {fileID: 2800000, guid: 412052399438246b995dd1b120b2d79e, type: 3}
+  - optionsGO: {instanceID: 0}
+  - creditsGO: {instanceID: 0}
+  - levelSelectGO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
