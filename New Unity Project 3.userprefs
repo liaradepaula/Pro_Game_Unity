@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\projeto\Scripts\gameover.cs">
+    <Files>
+      <File FileName="Assets\projeto\Scripts\gameover.cs" Line="13" Column="34" />
+      <File FileName="Assets\textura\movimentos\Moedas.js" Line="13" Column="15" />
+      <File FileName="Assets\spritsCodigos\cotroleMovimento.cs" Line="83" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
