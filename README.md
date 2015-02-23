@@ -9,3 +9,13 @@ interação entre personagem e inimigo e não possui código que possbilita a mo
 Para ter acesso ao projeto, é necessária a utilização da ferramenta de desenvolvimento de jogos Unity3D™. 
 
 A próxima etapa é resolver os problemas pertinentes e converter todo o sistema de jogo de 2D para 3D.
+
+==========================================================
+
+Os componentes do grupo de projeto são:
+
+Cyro Andreolle L Soares
+Jaianderson Santos
+Maria Karoline S Santos
+Marijane da S Lucindo
+Liara de Paula Lima
